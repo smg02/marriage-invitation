@@ -280,7 +280,7 @@ const CoupleSection = () => {
           <div className="rounded-full overflow-hidden w-48 h-48 sm:w-56 sm:h-56 mx-auto border-4 border-white shadow-2xl relative">
             <div className="absolute inset-0 bg-gold/5 mix-blend-multiply"></div>
             <img 
-              src="/quran_image.avif" 
+              src="/ring_image.jpg" 
               alt="Quran with flowers" 
               className="w-full h-full object-cover"
             />
@@ -297,7 +297,7 @@ const CoupleSection = () => {
           <h3 className="text-xl sm:text-2xl mt-4 mb-2 font-serif text-gray-900 font-bold uppercase">Salma M.</h3>
           <p className="text-gray-700 text-[10px] uppercase tracking-widest leading-relaxed font-medium">
             d/o Janab Mohammed Jameel P K<br/>
-            & Begum Jabeen Taj P K
+            & Begum Jabeen Taj
           </p>
         </motion.div>
       </div>
