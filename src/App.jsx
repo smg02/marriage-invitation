@@ -65,7 +65,7 @@ const Envelope = ({ onOpen }) => {
           transition={{ duration: 1, delay: 0.4 }}
           className="space-y-6"
         >
-          <span className="text-black/60 text-xs uppercase tracking-[0.6em] font-bold block mb-4">You Are Cordially Invited To The Wedding Of</span>
+          <span className="text-black/60 text-xs uppercase tracking-[0.6em] font-bold block mb-4">You Are Invited To The Wedding Of</span>
           <h1 className="text-3xl sm:text-5xl text-black font-serif tracking-[0.15em] uppercase leading-tight font-bold">
             Syed Abdul Hakeem
           </h1>
@@ -253,7 +253,7 @@ const CoupleSection = () => {
         className="mb-16 sm:mb-20 max-w-2xl mx-auto px-4"
       >
         <p className="text-[10px] uppercase tracking-[0.3em] text-gold font-bold mb-6">With the blessings of Almighty Allah (SWT)</p>
-        <p className="text-sm sm:text-base md:text-lg text-gray-800 tracking-widest uppercase leading-relaxed font-medium">Cordially invite you to the Nikah & Walima ceremony of their children</p>
+        <p className="text-sm sm:text-base md:text-lg text-gray-800 tracking-widest uppercase leading-relaxed font-medium">We Cordially invite you to the Nikah & Walima ceremony</p>
       </motion.div>
       
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 sm:gap-12 items-center max-w-5xl mx-auto">
